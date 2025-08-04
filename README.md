@@ -1,6 +1,6 @@
-# Snake Game 🐍
+# Snake Game 🐍🎮
 
-A classic Snake Game built with **Python** and **Pygame**. 🎮
+A classic Snake Game built with **Python** and **Pygame**. 
 
 ## Features
 - Classic snake movement (arrow keys)  
@@ -35,9 +35,7 @@ python snakegame.py
 ## Controls
 - **Arrow keys**: Move the snake  
 - **R** (if implemented): Restart after game over  
-- **Esc / Close window**: Exit the game  
-
-## Configuration
+- **Close window**: Exit the game  
 
 
 ## Score
