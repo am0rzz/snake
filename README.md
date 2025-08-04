@@ -18,7 +18,6 @@ A classic Snake Game built with **Python** and **Pygame**. 🎮
 1. Clone the repo:
    ```bash
    git clone https://github.com/am0rzz/snakegame.git
-   cd snake_game
    ```
 
 2. Install dependencies:
